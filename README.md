@@ -1,4 +1,4 @@
-# Madi-Ogburn-Portflio
+# Madi Ogburn's Portflio
 A portfolio to showcase the work created by Madi Ogburn in her studies at Heinz College.
 
 <img width="400" alt="Screen Shot 2020-08-20 at 10 30 31 AM" src="https://user-images.githubusercontent.com/71092360/92772389-a7c45900-f369-11ea-8b75-0960b59d61e2.png">
